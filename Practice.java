@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Practice {
 
     public static void main(String[] args){
@@ -16,6 +18,6 @@ public class Practice {
         System.out.println(a++ + ++a);
         System.out.println("Now a values is " +a);
 
-        System.out.println("sdds" +(a-- + --a));
+        System.out.println("the values is" + +(a-- + --a));
     }
 }
