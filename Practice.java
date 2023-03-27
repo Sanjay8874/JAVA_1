@@ -19,5 +19,9 @@ public class Practice {
         System.out.println("Now a values is " +a);
 
         System.out.println("the values is" + +(a-- + --a));
+
+
+
+
     }
 }
